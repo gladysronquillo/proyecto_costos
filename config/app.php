@@ -78,7 +78,8 @@ return [
     |
     */
 
-    'locale' => 'en',
+    //'locale' => 'en',//Inglés
+    'locale' => 'es', //Español
 
     /*
     |--------------------------------------------------------------------------
@@ -159,7 +160,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+        Laraveles\Spanish\SpanishServiceProvider::class,
     ],
 
     /*
