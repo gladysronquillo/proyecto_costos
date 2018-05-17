@@ -9,5 +9,6 @@
     "Confirm Password": "Confirmar contraseña",
     "Reset Password": "Reestablecer contraseña",
     "Send Password Reset Link": "Enviar link para reestablecer contraseña",
-    "Logout": "Cerrar sesión"
+    "Logout": "Cerrar sesión",
+    "Home": "Inicio"
 }
